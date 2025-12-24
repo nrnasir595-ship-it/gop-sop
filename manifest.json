@@ -1,0 +1,26 @@
+
+{
+  "name": "Gop Sop | গল্প সল্প",
+  "short_name": "Gop Sop",
+  "description": "গল্প সল্প - একটি আধুনিক এবং নিরাপদ চ্যাট অ্যাপ্লিকেশন।",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=GopSopLogo",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=GopSopLogo",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
